@@ -1,4 +1,4 @@
-#include "notebook.h"
+﻿#include "notebook.h"
 #include "mainwindow.h"
 #include <QFileDialog>
 #include <QMessageBox>
